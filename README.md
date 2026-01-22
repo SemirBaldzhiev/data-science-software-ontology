@@ -1,9 +1,9 @@
 # DSSO: Data Science Software Ontology
 
-![Ontology](https://img.shields.io/badge/Ontology-OWL2_DL-blue)
-![Language](https://img.shields.io/badge/Language-Python_3.10+-yellow)
-![Library](https://img.shields.io/badge/Library-Owlready2-green)
-![Reasoner](https://img.shields.io/badge/Reasoner-HermiT-red)
+[![Ontology](https://img.shields.io/badge/Ontology-OWL2_DL-blue)](https://www.w3.org/TR/owl2-overview/)
+[![Language](https://img.shields.io/badge/Language-Python_3.10+-yellow)](https://www.python.org/)
+[![Library](https://img.shields.io/badge/Library-Owlready2-green)](https://owlready2.readthedocs.io/en/v0.49/)
+[![Reasoner](https://img.shields.io/badge/Reasoner-HermiT-red)](http://www.hermit-reasoner.com/)
 
 ## 📌 Project Overview
 **DSSO (Data Science Software Ontology)** is a semantic model designed to classify, query, and manage dependencies within the modern Data Science and Machine Learning ecosystem.
